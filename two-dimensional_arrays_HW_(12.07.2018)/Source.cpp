@@ -20,21 +20,7 @@ while (true)
 
 	switch (tn)
 	{
-	case 1:
-	{
-
-	}
-	break;
-	case 2:
-	{
-
-	}
-	break;
-	case 3:
-	{
-
-	}
-	break;
+	
 	default:
 		cout << "нет такой задачи" << endl << endl;
 	}
